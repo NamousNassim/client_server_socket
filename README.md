@@ -1,6 +1,3 @@
-# Client-Server Socket Communication in C++
-
-This project contains code for a simple client-server socket communication using C++.
 
 ## Requirements
 
